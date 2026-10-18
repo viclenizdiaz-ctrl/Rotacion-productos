@@ -9,6 +9,7 @@ Proyecto final · Data Science II: Machine Learning para la Ciencia de Datos
 > - `notebook_rotacion_productos_liviano.ipynb`: notebook ejecutado de principio a fin, con todas las tablas y salidas de texto (sin imágenes, para que cargue rápido).
 > - `predicción_de_rotación_de_productos_con_clustering_y_clasificación__DATA_II (2).ipynb`: el mismo notebook ejecutado, con todos los gráficos.
 > - `requirements.txt`: dependencias.
+> - > - `informe_rotacion_productos.pdf`: copia completa del notebook en PDF, con código, tablas y gráficos.
 
 ## 1. Formulación del problema
 
@@ -120,3 +121,4 @@ jupyter notebook notebook_rotacion_productos_liviano.ipynb
 | `predicción_de_rotación_de_productos_con_clustering_y_clasificación__DATA_II (2).ipynb` | Notebook ejecutado, con todos los gráficos |
 | `requirements.txt` | Dependencias |
 | `README.md` | Este archivo |
+| `informe_rotacion_productos.pdf` | Informe completo en PDF, con código, tablas y gráficos |
